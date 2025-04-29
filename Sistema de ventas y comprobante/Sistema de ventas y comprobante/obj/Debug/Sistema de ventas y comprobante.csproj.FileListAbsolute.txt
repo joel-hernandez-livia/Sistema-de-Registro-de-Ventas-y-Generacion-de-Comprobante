@@ -1,0 +1,20 @@
+C:\Users\JOEL\source\repos\Sistema de ventas y comprobante\Sistema de ventas y comprobante\bin\Debug\Sistema de ventas y comprobante.exe.config
+C:\Users\JOEL\source\repos\Sistema de ventas y comprobante\Sistema de ventas y comprobante\bin\Debug\Sistema de ventas y comprobante.exe
+C:\Users\JOEL\source\repos\Sistema de ventas y comprobante\Sistema de ventas y comprobante\bin\Debug\Sistema de ventas y comprobante.pdb
+C:\Users\JOEL\source\repos\Sistema de ventas y comprobante\Sistema de ventas y comprobante\obj\Debug\Sistema de ventas y comprobante.csproj.AssemblyReference.cache
+C:\Users\JOEL\source\repos\Sistema de ventas y comprobante\Sistema de ventas y comprobante\obj\Debug\Sistema_de_ventas_y_comprobante.Form1.resources
+C:\Users\JOEL\source\repos\Sistema de ventas y comprobante\Sistema de ventas y comprobante\obj\Debug\Sistema_de_ventas_y_comprobante.Properties.Resources.resources
+C:\Users\JOEL\source\repos\Sistema de ventas y comprobante\Sistema de ventas y comprobante\obj\Debug\Sistema de ventas y comprobante.csproj.GenerateResource.cache
+C:\Users\JOEL\source\repos\Sistema de ventas y comprobante\Sistema de ventas y comprobante\obj\Debug\Sistema de ventas y comprobante.csproj.CoreCompileInputs.cache
+C:\Users\JOEL\source\repos\Sistema de ventas y comprobante\Sistema de ventas y comprobante\obj\Debug\Sistema de ventas y comprobante.exe
+C:\Users\JOEL\source\repos\Sistema de ventas y comprobante\Sistema de ventas y comprobante\obj\Debug\Sistema de ventas y comprobante.pdb
+D:\PROYECTOS\Sistema-de-Registro-de-Ventas-y-Generacion-de-Comprobante\Sistema-de-Registro-de-Ventas-y-Generacion-de-Comprobante\Sistema de ventas y comprobante\Sistema de ventas y comprobante\bin\Debug\Sistema de ventas y comprobante.exe.config
+D:\PROYECTOS\Sistema-de-Registro-de-Ventas-y-Generacion-de-Comprobante\Sistema-de-Registro-de-Ventas-y-Generacion-de-Comprobante\Sistema de ventas y comprobante\Sistema de ventas y comprobante\bin\Debug\Sistema de ventas y comprobante.exe
+D:\PROYECTOS\Sistema-de-Registro-de-Ventas-y-Generacion-de-Comprobante\Sistema-de-Registro-de-Ventas-y-Generacion-de-Comprobante\Sistema de ventas y comprobante\Sistema de ventas y comprobante\bin\Debug\Sistema de ventas y comprobante.pdb
+D:\PROYECTOS\Sistema-de-Registro-de-Ventas-y-Generacion-de-Comprobante\Sistema-de-Registro-de-Ventas-y-Generacion-de-Comprobante\Sistema de ventas y comprobante\Sistema de ventas y comprobante\obj\Debug\Sistema de ventas y comprobante.csproj.AssemblyReference.cache
+D:\PROYECTOS\Sistema-de-Registro-de-Ventas-y-Generacion-de-Comprobante\Sistema-de-Registro-de-Ventas-y-Generacion-de-Comprobante\Sistema de ventas y comprobante\Sistema de ventas y comprobante\obj\Debug\Sistema_de_ventas_y_comprobante.Form1.resources
+D:\PROYECTOS\Sistema-de-Registro-de-Ventas-y-Generacion-de-Comprobante\Sistema-de-Registro-de-Ventas-y-Generacion-de-Comprobante\Sistema de ventas y comprobante\Sistema de ventas y comprobante\obj\Debug\Sistema_de_ventas_y_comprobante.Properties.Resources.resources
+D:\PROYECTOS\Sistema-de-Registro-de-Ventas-y-Generacion-de-Comprobante\Sistema-de-Registro-de-Ventas-y-Generacion-de-Comprobante\Sistema de ventas y comprobante\Sistema de ventas y comprobante\obj\Debug\Sistema de ventas y comprobante.csproj.GenerateResource.cache
+D:\PROYECTOS\Sistema-de-Registro-de-Ventas-y-Generacion-de-Comprobante\Sistema-de-Registro-de-Ventas-y-Generacion-de-Comprobante\Sistema de ventas y comprobante\Sistema de ventas y comprobante\obj\Debug\Sistema de ventas y comprobante.csproj.CoreCompileInputs.cache
+D:\PROYECTOS\Sistema-de-Registro-de-Ventas-y-Generacion-de-Comprobante\Sistema-de-Registro-de-Ventas-y-Generacion-de-Comprobante\Sistema de ventas y comprobante\Sistema de ventas y comprobante\obj\Debug\Sistema de ventas y comprobante.exe
+D:\PROYECTOS\Sistema-de-Registro-de-Ventas-y-Generacion-de-Comprobante\Sistema-de-Registro-de-Ventas-y-Generacion-de-Comprobante\Sistema de ventas y comprobante\Sistema de ventas y comprobante\obj\Debug\Sistema de ventas y comprobante.pdb
