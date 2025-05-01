@@ -34,6 +34,7 @@
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
+    <Reference Include="System.Configuration" />
     <Reference Include="System.Core" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Data.DataSetExtensions" />
@@ -46,6 +47,13 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Capa_Acceso_Datos\DetalleVentasDAO.cs" />
+    <Compile Include="Capa_Acceso_Datos\ProductoDAO.cs" />
+    <Compile Include="Capa_Acceso_Datos\VentasDAO.cs" />
+    <Compile Include="Capa_Modelo\DetalleVenta.cs" />
+    <Compile Include="Capa_Modelo\Productos.cs" />
+    <Compile Include="Capa_Modelo\Ventas.cs" />
+    <Compile Include="Capa_Negocio\LogicaVenta.cs" />
     <Compile Include="Capa_Presentacion\Form1.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -80,12 +88,13 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="Capa_Datos\" />
-    <Folder Include="Capa_Negocio\" />
-  </ItemGroup>
+  <ItemGroup />
   <ItemGroup>
     <None Include="Resources\logo joel 64.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\joel logo 120.png" />
+    <Content Include="Resources\logo joel 80.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

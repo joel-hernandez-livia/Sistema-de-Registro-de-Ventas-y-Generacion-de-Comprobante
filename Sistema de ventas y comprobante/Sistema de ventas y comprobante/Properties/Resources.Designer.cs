@@ -63,9 +63,29 @@ namespace Sistema_de_ventas_y_comprobante.Properties {
         /// <summary>
         ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap joel_logo_120 {
+            get {
+                object obj = ResourceManager.GetObject("joel logo 120", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap logo_joel_64 {
             get {
                 object obj = ResourceManager.GetObject("logo joel 64", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap logo_joel_80 {
+            get {
+                object obj = ResourceManager.GetObject("logo joel 80", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
