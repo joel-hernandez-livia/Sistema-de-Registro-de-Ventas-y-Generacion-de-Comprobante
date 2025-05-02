@@ -7,3 +7,4 @@ Sistema orientado a negocios pequeños, en el cual se pueden realizar registros 
 - Windows Forms
 - ADO .Net
 - SQL Server
+- iTextSharp

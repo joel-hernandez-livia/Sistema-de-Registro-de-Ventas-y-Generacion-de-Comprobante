@@ -13,6 +13,7 @@ namespace Sistema_de_ventas_y_comprobante.Capa_Modelo
         public int ProductoId { get; set; }
         public int Cantidad { get; set; }
         public decimal PrecioUnitario { get; set; }
+        public string NombreProducto { get; set; }
 
     }
 }

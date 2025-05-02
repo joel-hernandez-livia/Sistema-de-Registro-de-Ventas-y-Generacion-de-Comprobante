@@ -25,5 +25,6 @@ CREATE TABLE DetalleVenta (
     VentaId INT FOREIGN KEY REFERENCES Ventas(IdVentas),
     ProductoId INT FOREIGN KEY REFERENCES Productos(IdProductos),
     Cantidad INT,
-    PrecioUnitario DECIMAL(10,2)
+    PrecioUnitario DECIMAL(10,2),
+	NombreProducto NVARCHAR(100)
 )

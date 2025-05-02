@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form1));
             this.panel1 = new System.Windows.Forms.Panel();
             this.lblTitulo = new System.Windows.Forms.Label();
             this.lblLogo = new System.Windows.Forms.Label();
@@ -48,6 +49,7 @@
             this.btnVender = new System.Windows.Forms.Button();
             this.btnAgregarProducto = new System.Windows.Forms.Button();
             this.dgvProductos = new System.Windows.Forms.DataGridView();
+            this.lblLogoJoel = new System.Windows.Forms.Label();
             this.panel1.SuspendLayout();
             this.panel2.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.dgvProductos)).BeginInit();
@@ -56,6 +58,7 @@
             // panel1
             // 
             this.panel1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(30)))), ((int)(((byte)(30)))), ((int)(((byte)(30)))));
+            this.panel1.Controls.Add(this.lblLogoJoel);
             this.panel1.Controls.Add(this.lblTitulo);
             this.panel1.Controls.Add(this.lblLogo);
             this.panel1.Controls.Add(this.txtbCantidadProducto);
@@ -88,12 +91,10 @@
             // 
             // lblLogo
             // 
-            this.lblLogo.Image = global::Sistema_de_ventas_y_comprobante.Properties.Resources.joel_logo_120;
-            this.lblLogo.Location = new System.Drawing.Point(72, 80);
+            this.lblLogo.Location = new System.Drawing.Point(0, 0);
             this.lblLogo.Name = "lblLogo";
-            this.lblLogo.Size = new System.Drawing.Size(124, 122);
-            this.lblLogo.TabIndex = 11;
-            this.lblLogo.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
+            this.lblLogo.Size = new System.Drawing.Size(100, 23);
+            this.lblLogo.TabIndex = 15;
             // 
             // txtbCantidadProducto
             // 
@@ -226,8 +227,8 @@
             this.lblTotalOutput.Name = "lblTotalOutput";
             this.lblTotalOutput.Size = new System.Drawing.Size(222, 87);
             this.lblTotalOutput.TabIndex = 4;
-            this.lblTotalOutput.Text = "99999999.99";
             this.lblTotalOutput.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
+            this.lblTotalOutput.Click += new System.EventHandler(this.lblTotalOutput_Click);
             // 
             // btnEliminarProducto
             // 
@@ -279,6 +280,7 @@
             // 
             // dgvProductos
             // 
+            this.dgvProductos.AllowUserToAddRows = false;
             this.dgvProductos.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
             | System.Windows.Forms.AnchorStyles.Left) 
             | System.Windows.Forms.AnchorStyles.Right)));
@@ -290,8 +292,14 @@
             this.dgvProductos.Size = new System.Drawing.Size(959, 409);
             this.dgvProductos.TabIndex = 0;
             this.dgvProductos.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dgvProductos_CellContentClick);
-            this.dgvProductos.AllowUserToAddRows = false;
-
+            // 
+            // lblLogoJoel
+            // 
+            this.lblLogoJoel.Image = ((System.Drawing.Image)(resources.GetObject("lblLogoJoel.Image")));
+            this.lblLogoJoel.Location = new System.Drawing.Point(75, 70);
+            this.lblLogoJoel.Name = "lblLogoJoel";
+            this.lblLogoJoel.Size = new System.Drawing.Size(121, 120);
+            this.lblLogoJoel.TabIndex = 6;
             // 
             // Form1
             // 
@@ -334,6 +342,7 @@
         private System.Windows.Forms.Button btnVender;
         private System.Windows.Forms.Label lblTotalOutput;
         private System.Windows.Forms.Label label9;
+        private System.Windows.Forms.Label lblLogoJoel;
     }
 }
 

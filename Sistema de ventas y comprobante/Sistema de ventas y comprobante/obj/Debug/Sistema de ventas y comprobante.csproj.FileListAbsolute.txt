@@ -28,3 +28,7 @@ D:\PROYECTOS\registro venta\registro venta\Sistema de ventas y comprobante\Siste
 D:\PROYECTOS\registro venta\registro venta\Sistema de ventas y comprobante\Sistema de ventas y comprobante\obj\Debug\Sistema de ventas y comprobante.csproj.CoreCompileInputs.cache
 D:\PROYECTOS\registro venta\registro venta\Sistema de ventas y comprobante\Sistema de ventas y comprobante\obj\Debug\Sistema de ventas y comprobante.exe
 D:\PROYECTOS\registro venta\registro venta\Sistema de ventas y comprobante\Sistema de ventas y comprobante\obj\Debug\Sistema de ventas y comprobante.pdb
+D:\PROYECTOS\registro venta\registro venta\Sistema de ventas y comprobante\Sistema de ventas y comprobante\bin\Debug\BouncyCastle.Crypto.dll
+D:\PROYECTOS\registro venta\registro venta\Sistema de ventas y comprobante\Sistema de ventas y comprobante\bin\Debug\itextsharp.dll
+D:\PROYECTOS\registro venta\registro venta\Sistema de ventas y comprobante\Sistema de ventas y comprobante\bin\Debug\itextsharp.xml
+D:\PROYECTOS\registro venta\registro venta\Sistema de ventas y comprobante\Sistema de ventas y comprobante\obj\Debug\Sistema .6D54A9BA.Up2Date
